@@ -7,3 +7,6 @@
 2- Mark the current node as visited and print the node.
 \
 3- Traverse all the adjacent and unmarked nodes and call the recursive function with index of adjacent node.
+\
+runtime: O(V+E) where V is number of vertices and E is the number of edges. 
+
